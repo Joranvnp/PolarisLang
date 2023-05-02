@@ -1,0 +1,9 @@
+body {
+    background-color: grey;
+}
+
+.bordure {
+    border-style: solid;  
+    border-width: 2px;
+    background-color: rgb(196, 192, 192);
+}
